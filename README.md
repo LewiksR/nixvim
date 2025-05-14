@@ -1,3 +1,6 @@
+# IMPORTANT
+This is a fork from dc-tec's nixvim configuration, edited my own way as a baseline nixvim config, which was already very close to the point I wanted my personal neovim configuration to be in. If you are interested in using this, I would recommend using the [original repository](https://github.com/dc-tec/nixvim) instead.
+
 # NixVim Configuration
 
 This repository contains my personal configuration NixVim, a Neovim configuration managed with Nix.
