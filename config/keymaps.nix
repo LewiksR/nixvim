@@ -52,6 +52,24 @@
     }
     {
       mode = "n";
+      key = "<C-u>";
+      action = "<C-u>zz";
+      options = {
+        desc = "Scroll up and center view";
+        remap = true;
+      };
+    }
+    {
+      mode = "n";
+      key = "<C-d>";
+      action = "<C-d>zz";
+      options = {
+        desc = "Scroll down and center view";
+        remap = true;
+      };
+    }
+    {
+      mode = "n";
       key = "<C-h>";
       action = "<C-w>h";
       options = {
